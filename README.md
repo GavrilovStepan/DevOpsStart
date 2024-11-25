@@ -40,7 +40,7 @@ stepss ALL=(ALL:ALL) ALL
 ```
 
 Создаём и монтируем директорю /cdrom и запускаем установщик гостевого дополнения [Guest Additions 7.0.x revision 165945](https://www.virtualbox.org/wiki/Testbuilds)  который нужно выбрать через :
-
+![run_image.jpg](images/localhost.jpg '1.jpg')
 ```
 sudo mkdir cdrom
 sudo mount /dev/cdrom /cdrom
